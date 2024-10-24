@@ -23,6 +23,9 @@ A **Two In One Calculator** app built with **Jetpack Compose** and **Kotlin** th
 
 https://github.com/user-attachments/assets/628bead1-a41b-4e27-8592-2fc0e8773bf0
 
+# 100% Kotlin
+
+![image_processing20210904-11371-fm5fn8](https://github.com/user-attachments/assets/b11ca45c-2d48-4443-8744-3d3f7454a4a3)
 
 
 ## Getting Started 🚀
